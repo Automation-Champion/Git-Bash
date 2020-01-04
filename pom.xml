@@ -37,7 +37,7 @@
 						</goals>
 						<configuration>
 							<projectName>cucumber-jvm-example</projectName>
-							<outputDirectory>${project.build.directory}/goutham-cucumber-reports</outputDirectory>
+							<!-- <outputDirectory>${project.build.directory}/goutham-cucumber-reports</outputDirectory> -->
 							<cucumberOutput>${project.build.directory}/cucumber-reports</cucumberOutput>
 						</configuration>
 					</execution>
