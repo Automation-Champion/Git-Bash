@@ -1820,3 +1820,87 @@
 2020-01-04 11:07:02,113 [main] INFO nopComemrce - ********closing browser********
 2020-01-05 19:28:32,249 [main] INFO nopComemrce - ******** Launching browser*********
 2020-01-05 19:28:32,313 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:29:13,186 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:29:14,422 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:29:51,011 [main] INFO nopComemrce - ********Adding new customer*********
+2020-01-05 19:29:51,026 [main] INFO nopComemrce - ********Proving customer details*********
+2020-01-05 19:30:00,714 [main] INFO nopComemrce - ********Saving customer data*********
+2020-01-05 19:30:08,233 [main] INFO nopComemrce - ********closing browser********
+2020-01-05 19:30:17,840 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:30:18,271 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:30:28,889 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:30:33,490 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:30:59,091 [main] INFO nopComemrce - ********Searching customer by email id*********
+2020-01-05 19:31:08,681 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:31:08,701 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:31:14,909 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:31:15,543 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:31:29,435 [main] INFO nopComemrce - ********Searching customer by Name*********
+2020-01-05 19:31:36,938 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:31:36,957 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:31:42,708 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:31:43,545 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:31:52,678 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:31:55,715 [main] INFO nopComemrce - ******** Click on logout link*********
+2020-01-05 19:32:01,392 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:32:04,400 [main] INFO nopComemrce - ********closing browser********
+2020-01-05 19:32:11,047 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:32:11,053 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:32:16,402 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:32:16,734 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:32:24,908 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:32:27,934 [main] INFO nopComemrce - ******** Click on logout link*********
+2020-01-05 19:32:32,086 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:32:35,122 [main] INFO nopComemrce - ********closing browser********
+2020-01-05 19:32:41,860 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:32:41,876 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:32:47,581 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:32:48,922 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:32:56,795 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:32:59,805 [main] INFO nopComemrce - ******** Click on logout link*********
+2020-01-05 19:33:04,874 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:33:07,881 [main] INFO nopComemrce - ********closing browser********
+2020-01-05 19:35:17,002 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:35:17,070 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:35:21,260 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:35:22,292 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:35:48,153 [main] INFO nopComemrce - ********Adding new customer*********
+2020-01-05 19:35:48,160 [main] INFO nopComemrce - ********Proving customer details*********
+2020-01-05 19:35:56,625 [main] INFO nopComemrce - ********Saving customer data*********
+2020-01-05 19:36:03,725 [main] INFO nopComemrce - ********closing browser********
+2020-01-05 19:36:12,110 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:36:12,125 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:36:19,855 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:36:20,389 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:36:42,202 [main] INFO nopComemrce - ********Searching customer by email id*********
+2020-01-05 19:36:46,199 [main] INFO nopComemrce - ********closing browser********
+2020-01-05 19:36:53,674 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:36:53,699 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:36:59,988 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:37:00,368 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:37:22,332 [main] INFO nopComemrce - ********Searching customer by Name*********
+2020-01-05 19:37:26,872 [main] INFO nopComemrce - ********closing browser********
+2020-01-05 19:37:33,518 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:37:33,524 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:37:41,154 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:37:41,467 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:37:50,531 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:37:53,556 [main] INFO nopComemrce - ******** Click on logout link*********
+2020-01-05 19:37:59,261 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:38:02,268 [main] INFO nopComemrce - ********closing browser********
+2020-01-05 19:38:09,713 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:38:09,723 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:38:16,172 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:38:16,487 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:38:25,523 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:38:28,530 [main] INFO nopComemrce - ******** Click on logout link*********
+2020-01-05 19:38:33,627 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:38:36,640 [main] INFO nopComemrce - ********closing browser********
+2020-01-05 19:38:44,148 [main] INFO nopComemrce - ******** Launching browser*********
+2020-01-05 19:38:44,153 [main] INFO nopComemrce - ******** Opening URL*********
+2020-01-05 19:38:50,030 [main] INFO nopComemrce - ******** Providing login details*********
+2020-01-05 19:38:50,384 [main] INFO nopComemrce - ******** started login*********
+2020-01-05 19:38:59,613 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:39:02,623 [main] INFO nopComemrce - ******** Click on logout link*********
+2020-01-05 19:39:12,381 [main] INFO nopComemrce - ******** Login Passed*********
+2020-01-05 19:39:15,552 [main] INFO nopComemrce - ********closing browser********

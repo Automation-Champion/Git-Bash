@@ -39,9 +39,6 @@
 							<projectName>cucumber-jvm-example</projectName>
 							<outputDirectory>${project.build.directory}/Advance-cucumber-reports</outputDirectory>
 							<cucumberOutput>${project.build.directory}/cucumber.json</cucumberOutput>
-							<testFailureIgnore>true</testFailureIgnore>
-							<enableFlashCharts>false</enableFlashCharts>
-							<buildNumber>01</buildNumber>
 						</configuration>
 					</execution>
 				</executions>
