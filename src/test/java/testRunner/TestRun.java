@@ -23,7 +23,7 @@ import cucumber.api.junit.Cucumber;
 						dryRun=false,
 						monochrome=true,
 						//plugin= {"pretty","html:test-output"},
-						plugin= {"pretty","json:target/cucumber-reports/cucumber.json"},
+						plugin= {"pretty","html:target/cucumber-reports/cucumber.json", "json:target/cucumber.json" },
 						
 						tags= {"@sanity, @regression"}
 						)
